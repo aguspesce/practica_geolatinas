@@ -1,10 +1,11 @@
 # Ejercicio para aprender el Git Workflow
 
-Este repositorio es una practica par el coding_group de
+Este repositorio es una práctica para el coding_group de
 [GeoLatinas](https://geolatinas.weebly.com/).
 
-La practica consiste en hace un pull request para agregar tu nombre en archivo
-[miembros.txt](https://github.com/aguspesce/practica_geolatinas/blob/master/miembros.txt).
+La práctica consiste en hace un Pull Request para agregar tu nombre en archivo
+[miembros.md](https://github.com/aguspesce/practica_geolatinas/blob/master/miembros.md).
 
-En la pagina [Git Workflow](https://www.asmeurer.com/git-workflow/) están los
-pasos completos para clonar, hacer un fork y un pull request.
+Pueden encontrar un tutorial muy completo que incluye todos los pasos para
+clonar, hacer un fork y abrir un Pull Request en
+[Git Workflow](https://www.asmeurer.com/git-workflow/).
