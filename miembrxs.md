@@ -2,4 +2,5 @@
 
 ### Nombre y nacionalidad:
 
+Hola Soy Diana Acero-Allard y soy colombiana
 - Santiago Soler de Argentina
