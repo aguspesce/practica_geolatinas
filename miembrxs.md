@@ -7,3 +7,4 @@ Hola Soy Diana Acero-Allard y soy colombiana
 - Gaby Mayorga-Adame de Mexico
 - Mariana Gomez. Mexicana
 - Andrea Balza de Venezuela
+- Isamar Cortes de Puerto Rico
